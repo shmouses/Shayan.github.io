@@ -1,8 +1,9 @@
 # Site settings
 title: Mauricio Urraco
 description: Resume
-baseurl: "Shayan.github.io" # the subpath of your site, e.g. /blog
-url: "Shayan.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#baseurl: "Shayan.github.io" # the subpath of your site, e.g. /blog
+url: "https://shmousas.github.io"
+domain: "shmousas.github.io"
 
 # User settings
 username: S. Shayan Mousavi M. 
